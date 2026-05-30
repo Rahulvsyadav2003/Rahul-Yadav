@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shubhampawale108.github.io/Rahul-Yadav/sitemap.xml
+Sitemap: https://rahulvsyadav2003.github.io/Rahul-Yadav/sitemap.xml
