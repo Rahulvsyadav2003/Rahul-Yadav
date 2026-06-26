@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /images/
+
 Sitemap: https://rahulvsyadav2003.github.io/Rahul-Yadav/sitemap.xml
